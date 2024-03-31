@@ -22,7 +22,7 @@ Você poderá estudar o conteúdo [clicando aqui](https://docs.pipz.com/central-
 # **Engenharia de requisitos**
  A engenharia de requisitos é uma área específica dentro da engenharia de software. Trata-se de um levantamento  de requisitos que o engenheiro realiza com o cliente, para conseguir ententer a real necessidade dele e solucioná-la.
  
-![imagem](https://pin.it/3bmws5g70)
+<img src="https://images.app.goo.gl/SxMQeiTxyi2DovWdA">
 
 Essa área é dividida em dois tipos:
 
