@@ -22,7 +22,7 @@ Você poderá estudar o conteúdo [clicando aqui](https://docs.pipz.com/central-
 # **Engenharia de requisitos**
  A engenharia de requisitos é uma área específica dentro da engenharia de software. Trata-se de um levantamento  de requisitos que o engenheiro realiza com o cliente, para conseguir ententer a real necessidade dele e solucioná-la.
  
-<img src="https://images.app.goo.gl/SxMQeiTxyi2DovWdA">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_L6WA083W8DjapnVMINZdqkKE1X8_j1XwkQ&usqp=CAU"  width="600">
 
 Essa área é dividida em dois tipos:
 
@@ -40,9 +40,19 @@ O 1º integrante da equipe começou a levantar os requisitos para a interface de
 O 2º começou a levantar os requisitos para a inteface de Login;
 O 3º começou a levantar os requisitos para a interface da tela principal;
 E o 4º integrante começou a levantar os requistos para a interface de estatisticas;
-Por fim padronizaram o layout do app, decidindo cor, tipografia, distribuição de elementos e por fim apresentaram ao cliente.
+Por fim padronizaram o layout do app, decidindo cor, tipografia, distribuição de elementos e por fim apresentaram ao cliente. 
 
+<img src="https://github.com/AilaVital/aulaMarkdown/assets/164503762/14e27e63-7238-4586-9759-d4cc43eeb68e" width="600">
 
+## Use Case
+Histórico|Notas de Implementação
+---------|----------------------
+Nome     | Ideias   
+---------|----------------------
+Data     | Implementação
+---------|----------------------
+Versão   |  Elaboração
+---------|----------------------
 ## Bibliografia 
 [Requesitos funcionais e não funcionais](https://www.devmedia.com.br/introducao-a-requisitos-de-software/29580#:~:text=N%C3%BAmero%20de%20sistemas%2Dalvo.&text=Os%20requisitos%20n%C3%A3o%20funcionais%20ainda,Requisitos%20Organizacionais%20e%20Requisitos%20Externos.)
-
+[Use Case](https://images.app.goo.gl/onUoboxg48mDkaum7)
